@@ -4,6 +4,8 @@ Landing page de uma clínica médica desenvolvida com HTML e CSS.
 
 O projeto apresenta uma interface moderna, simples e responsiva, com informações sobre a clínica, serviços médicos e formas de contato.
 
+<img src="imagem_projeto_medCare.png" alt="imagem do projeto">
+
 ## Tecnologias
 
 * HTML5
